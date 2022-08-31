@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Communicate using Markdown
+## Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -201,6 +201,9 @@ GitHub Actions went ahead and made a branch and a pull request for you. So you'l
    - [ ] Outline my portfolio
    - [ ] Introduce myself to the world
    ```
+  - [x] List syntax is required
+  - [x] This item is complete
+  - [ ] This item is not complete
 
    Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
 
@@ -274,3 +277,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
