@@ -201,6 +201,9 @@ GitHub Actions went ahead and made a branch and a pull request for you. So you'l
    - [ ] Outline my portfolio
    - [ ] Introduce myself to the world
    ```
+  - [x] List syntax is required
+  - [x] This item is complete
+  - [ ] This item is not complete
 
    Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
 
